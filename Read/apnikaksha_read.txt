@@ -1,0 +1,22 @@
+1. Video html attributes like controls, autoplay,loop,poster etc
+2. Breaks:
+	hr
+	br etc
+3. iframe
+	embeddding
+4.tables
+	structure
+	tr
+	th
+	td
+	tbody
+	rowspan
+	colspan
+	tfoot
+5.forms
+	Input
+	Input Type
+	div
+	span
+6. Selections
+	
