@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic:ital@1&display=swap');
+
+.bg-image
+ {
+        background-image: url("files examples/portfolio.jpg");
+
+        /* Add the blur effect */
+        filter: blur(8px);
+        -webkit-filter: blur(8px);
+
+        /* Full height */
+        height: 100%;
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+}
+
+.sidenav{
+        
+        font-size: 150%;
+        height: 100%;
+        position: absolute;
+        top: 45px;
+        position: fixed;
+
+        width: 18%;
+        background-color:rgba(24, 22, 22, 0.767) ;
+
+        
+}
+
+a{
+        color: azure;
+        display: block;
+        margin: 25px;
+        
+}
+
+.bg-text{
+    font-family: "Andika New Basic";
+    color:lightcyan;
+    font-size: 120%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    right: 10%;
+    text-align: center;
+
+    outline:lightcyan;
+}
